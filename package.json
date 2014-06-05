@@ -1,0 +1,13 @@
+{
+    "name": "learn.flixelcommunity.org",
+    "version": "1.0.0",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FlixelCommunity/learn.flixelcommunity.org.git"
+    },
+    "author": "Flixel Community Team",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {}
+}
